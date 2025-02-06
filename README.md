@@ -28,4 +28,4 @@
 
 </br><hr>
 - jihwa_test - 지화 데이터셋으로 구성 (이미지 좌표)
- - video_test_google - 구글 미디어파이프를 활용하여 영상 데이터셋으로 구성성
+ - video_test_google - 구글 미디어파이프를 활용하여 영상 데이터셋으로 구성
